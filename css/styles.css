@@ -1,0 +1,7 @@
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.w-30 {
+    width: 30%;
+}
